@@ -36,6 +36,8 @@ Recent Update: 2024-10-09T12:50:00
   * https://github.com/google/open-source-pdks
 - Google Silicon (免费)
   * https://developers.google.com/silicon
+- OpwnTitan (免费)
+  * https://opentitan.org 开源以RISC-V 为core 的SoC，很适合练习
 - 代码的本质 (免费)
   * https://www.kadenze.com/courses/the-nature-of-code-ii/
 - 吾爱IC 社区 知识星球 (收费 ￥299+/年)
